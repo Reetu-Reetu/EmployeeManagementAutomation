@@ -27,7 +27,7 @@ The application provides HR management functionality including employee manageme
 
 - Verify login with valid credentials
 - Verify login with invalid credentials
-- Verify successful navigation to the Dashboard
+
 
 ## Project Structure
 
